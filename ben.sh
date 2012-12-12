@@ -1,2 +1,2 @@
 #hey look ben!
-echo "Ben! git is easy!" 
+echo "Ben! git is really complicated!" 
